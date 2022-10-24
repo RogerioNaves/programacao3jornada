@@ -44,11 +44,11 @@ p5 {
     font-size: 30px;
     font-style: #000;
     padding: 10px;
-}   
+}
 
 .titulo-principal {
-padding-left: 20px;
-background-color: blue;
+    padding-left: 20px;
+    background-color: blue;
 }
 
 
@@ -58,13 +58,27 @@ ul {
     vertical-align: top;
     margin-left: 5%;
 }
+
 .itens {
     width: 50%;
 }
+
 .rodape {
-        font-size: 10px;
-        font-style: #000;
-        padding: 10px;
-        text-align: center;
-        background-color: black;
-    }  
+    font-size: 10px;
+    font-style: #000;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+}
+
+nav a {
+    color: #fbb829;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+nav li {
+    display: inline;
+    margin-top: 10px;
+    padding: 100px;
+}
