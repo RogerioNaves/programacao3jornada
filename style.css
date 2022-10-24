@@ -73,12 +73,24 @@ ul {
 
 nav a {
     color: #fbb829;
-    font-size: 20px;
+    font-size: 30px;
     text-decoration: none;
+
 }
 
 nav li {
     display: inline;
     margin-top: 10px;
     padding: 100px;
+    
 }
+
+a:link {
+    color: #00F;
+    background-color: yellow;
+   }
+   
+   a:hover {
+    color: #F00;
+    background-color: black;
+   }
