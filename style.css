@@ -60,8 +60,7 @@ ul {
 }
 
 .itens {
-position: relative;
-border-top: 60px;
+position: sticky;
 left: 350px;
     
 }
