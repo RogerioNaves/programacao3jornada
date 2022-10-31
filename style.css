@@ -61,6 +61,8 @@ ul {
 
 .itens {
 position: fixed;
+bottom: 60px;
+left: 350px;
     
 }
 
