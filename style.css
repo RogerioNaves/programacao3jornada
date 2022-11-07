@@ -88,13 +88,6 @@ nav li {
     
 }
 
-.menu{
-position: fixed;
-top: 100px;
-left: 100px;
-
-}
-
 a:link {
     background: #B1B1B1;
     color: #FFF;
