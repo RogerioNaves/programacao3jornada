@@ -89,9 +89,9 @@ nav li {
 }
 
 .menu{
-position: absolute;
-top: 50px;
-left: 50px;
+position: fixed;
+top: 100px;
+left: 100px;
 
 }
 
